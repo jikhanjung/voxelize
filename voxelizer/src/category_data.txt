@@ -1,0 +1,261 @@
+Acanthastrea echinata 48089	M	IR
+Acanthastrea echinata 89920	M	IR
+Acropora palmata 1146600	B1	R
+Acropora palmata 15503	B1	R
+Acropora tenuis 1131458	B1	R
+Acropora tenuis 82224	B1	R
+Acropora_cervicornis	B1	R
+Agaricia humilis 92528	P	IR
+Agaricia humilis 92532	P	R
+Agaricid_HJ305	P	R
+Alveopora sp 82769	M	R
+Alveopora sp 90628	M	R
+Anacropora forbesi 44780	B1	R
+Anacropora matthai 93401-1	B1	R
+Anacropora matthai 93401-2	B1	R
+Astreopora myriophthalma 89494	M	R
+Astreopora myriophthalma 89496	M	R
+Barabattoia amoricum 93641	M	R
+Barabattoia amoricum 93642	M	R
+Blastomussa merleti 83336	B2	R
+Blastomussa wellsi 83338	B2	R
+Caulastrea furcata 92348	B2	R
+Caulastrea furcata 92349	B2	R
+Cladocora arbuscula 71916	B2	R
+Cladocora arbuscula 84588	B2	R
+Colpophylla natans C6 17m	P	R
+Coscinaraea columna 1115402	M	R
+Coscinaraea columna 79579	M	R
+Coscinaraea columna 82553	M	R
+Cynarina lacrymalis 72365	S	R
+Cynarina lacrymalis 83345	S	R
+Cyphastrea chalcidicum 1149588	M	R
+Cyphastrea chalcidium 48174	M	R
+Cyphastrea chalcidium 83258	M	IR
+Cyphastrea serialia 38363	M	R
+Cyphastrea suvadivae 83254	M	R
+Dendrogyra cylindrus 1148001	C	R
+Dendrogyra cylindrus 36486	M	R
+Dichocoenia stokesi 74371	M	R
+Dichocoenia stokesi 74382	M	R
+Dichocoenia stokesi 74392	M	R
+Dichocoenia_stellaris	M	R
+Dichocoenia_stokesi_SUI_102813	M	R
+Diploastrea heliopora 1183350	M	R
+Diploastrea heliopora 91106	M	R
+Diploria clivosa 1144264	M	R
+Diploria clivosa 74112	M	R
+Diploria clivosa 74118	M	R
+Diploria Labyrinthiformis 36755	M	R
+Diploria labyrinthiformis 7268	M	R
+Diploria strigosa 1138925	M	R
+Diploria strigosa 47708	M	R
+Diploria strigosa 74948	M	R
+Diploria_strigosa_2	M	R
+Echinophyllia aspera 1134505	CH	R
+Echinophyllia aspera 45072-1	CH	R
+Echinophyllia aspera 45072-2	CH	R
+Echinophyllia aspera 89517	CH	R
+Echinophyllia echinoparoides 83483	P	R
+Echinophyllia sp 1134483	CH	R
+Echinopora gemmacea 48055	C	R
+Echinopora gemmacea 48063	B1	R
+Echinopora gemmacea 83294	C	R
+Echinopora gemmacea 93734	P	R
+Echinopora gemmacea acc 273012	P	R
+Euphyllia ancora 92356	B2	R
+Euphyllia ancora 93824	B2	R
+Euphyllia ancora 93825	B2	R
+Euphyllia glabrescens 47996	B2	R
+Euphyllia glabrescens 89509	B2	R
+Eusmilia fastigiata 36516	B2	R
+Eusmilia fastigiata 85198	B2	R
+Favia laxa 90605	M	R
+Favia laxa 93652	M	R
+Favia leptophylla 83059	M	IR
+Favia pallida 90731-1	M	R
+Favia pallida 90731-2	M	R
+Favia speciosa 90727-1	M	R
+Favia speciosa 90727-2	M	R
+Favia speciosa 90727-3	M	R
+Favia stelligera 1137027	M	IR
+Favia stelligera 1137030	M	IR
+Favia stelligera 1137661	M	IR
+Favia_f_pacific_loc3	M	R
+Favites chinensis 90359	M	R
+Favites chinensis 91103	M	R
+Favites chinensis cf 91321	M	R
+Favites halicora 83068	M	R
+Favites halicora 91279	M	IR
+Favosites halicora 79656	M	IR
+Fungia scutaria 77899-1	S	R
+Fungia scutaria 77899-2	S	R
+Fungia scutaria 77899-3	S	R
+Fungia_fungites	S	R
+Galaxea fascicularis 90634	M	R
+Galaxea fascicularis 90860-1	M	R
+Galaxea fascicularis 90860-2	M	R
+Goniastrea pectinata 1148024	M	R
+Goniastrea pectinata 1148085	M	R
+Goniastrea pectinata 21972	M	R
+Goniopora sp 91102	B1	R
+Goniopora sp 91142	M	R
+Helioseris_1	P	R
+Herpolitha limax 45399	S	R
+Herpolitha limax 94709	S	R
+Herpolitha limax noid	S	R
+Hydnophora exesa 48191	P	R
+Hydnophora exesa 90661	P	R
+Hydnophora microconos 45030	M	R
+Hydnophora rigida box50	B1	IR
+Isophyllia sinuosa Loc No6 Tortugas Vaughan 1908	P	R
+Isophyllia_sinuosa_USNM_36819	P	R
+Leotpastrea fluians 48490	M	R
+Leptastrea pruinosa 1150570	M	R
+Leptastrea pruinosa 93756	M	R
+Leptoria phrygia 1146677	M	R
+Leptoria phrygia 79225	M	R
+Leptoseris mycetoseroides 93438	M	R
+Lobophyllia corymbosa 89902	M	R
+Lobophyllia corymbosa 91009	M	R
+Lobophyllia corymbosa acc273012	M	R
+Lobophyllia hemprichii 100552	M	R
+Lobophyllia hemprichii 45060	M	R
+Lobophyllia hemprichii 92367	M	R
+Lobophyllia pachysepta 45442	M	R
+Lobophyllia pachysepta 91130	M	R
+Madracis mirabilis 088031	B1	R
+Madracis mirabilis 1113051	B1	R
+Manicina areolata 40623-1	M	R
+Manicina areolata 40623-2	M	R
+Manicina areolata 77697	M	R
+Manicina_1	M	R
+Manicina_2	M	R
+Meandrina brasiliensis 1150404	M	R
+Meandrina brasiliensis 1150406	M	R
+Meandrina brasiliensis 48128	M	R
+Meandrina meandrites 1150583	M	R
+Meandrina meandrites 74979	M	R
+Meandrina meandrites 84905	M	R
+Meandrina	M	R
+Merulina ampliata 90766-1	P	IR
+Merulina ampliata 90766-2	P	IR
+Merulina ampliata 90766-3	P	IR
+Merulina scabricula 90768-1	P	IR
+Merulina scabricula 90768-2	P	IR
+Montastraea annularis 1150979	M	R
+Montastraea annularis 36645	M	R
+Montastraea cavernosa 74183	M	R
+Montastraea cavernosa 74190	M	R
+Montastraea curta 1153616	M	R
+Montastraea curta 45700	M	R
+Montastraea curta 89988	M	R
+Montastraea valenciennesi 1153624	M	R
+Montastraea valenciennesi 90671	M	R
+Mussa angulosa 36786	B2	R
+Mussa angulosa 7277	B2	R
+Mussa angulosa 7286	B2	R
+Mussa_angulosa_USNM_7297	B2	R
+Mussismilia braziliensis 5379	M	R
+Mussismilia hartti 10895	M	R
+Mussismilia hartti 95414	B2	R
+Mussismilia hispida 85176	P	R
+Mussismilia hispida 85177	P	R
+Mussismilia sp 1164621	M	R
+Mussismilia sp 5351	M	R
+Mycedium elephantotus 93805-1	CH	R
+Mycedium elephantotus 93805-2	CH	R
+Mycedium elephantotus no_id	IR	R
+Mycetophyllia aliciae 85182	P	R
+Mycetophyllia aliciae 95476	P	R
+Mycetophyllia danaana 85166	P	R
+Mycetophyllia danaana 95480	P	R
+Mycetophyllia lamarckiana 74341	P	R
+Mycetophyllia_815	P	R
+Mycetophyllia_818	P	R
+Mycetophyllia_859	P	R
+M_annularis_2	M	R
+M_annularis_Panama_1987	M	R
+Oculina diffusa 36555	B1	R
+Oculina diffusa 45310	B1	R
+Oculina_diffusa_1127	B1	R
+Oculina_val_1128	B1	R
+Oulastrea crispata 90691-1	M	R
+Oulastrea crispata 90691-2	M	R
+Oulastrea crispata 90691-3	M	R
+Oulophyllia crispa 83123	M	R
+Oxypora lacera 83473	CH	R
+Oxypora lacera 83474	P	R
+Pachyseris speciosa 90646-1	P	R
+Pachyseris speciosa 90646-2	P	R
+Pavona cactus 44330	F	R
+Pavona cactus 90784	F	R
+Pectinia alcicornis 47131	IR	R
+Pectinia alcicornis 93812	IR	R
+Pectinia lactuca 92383	IR	R
+Pectinia paeonia 90812	IR	R
+Physogyra lichtensteini 93832	M	R
+Platygyra daedalea 1146788	M	R
+Platygyra daedalea 90679-2	M	R
+Platygyra daedalea 90679	M	R
+Platygyra lamellina 21975	M	R
+Platygyra lamellina 93713	M	R
+Plesiastrea versipora 44996	M	R
+Plesiastrea versipora 82795	M	R
+Pocillopora verrucosa 45609	B1	R
+Porites astreoides 74655	M	R
+Porites astreoides 74658	M	R
+Porites lutea 1175404-2	M	R
+Porites lutea 99437	M	R
+Porites_astreoides_2	M	R
+Porites_astreoides_SUI_102795	M	R
+Porites_divaricata	B1	R
+Porites_porites_1	B1	R
+Porites_porites_2	B1	R
+Psammocora contigua 80272	B1	R
+Scapophyllia cylindrica 83309	B1	R
+Scapophyllia cylindrica 89934	B1	R
+Scolymia sp 83335-1	S	R
+Scolymia sp 83335-2	S	R
+Scolymia sp 83335-3	S	R
+Scolymia vitiensis 83331	S	R
+Scolymia vitiensis 93788	S	R
+Scolymia_cubensis_YPM_7569	S	R
+Seriatopora hystrix 79201	B1	R
+Seriatopora hystrix 93376	B1	R
+Siderastrea radians 1143820	M	R
+Siderastrea radians 1143827-1	M	R
+Siderastrea radians 1143827-2	M	R
+Siderastrea savignyana 1154339	M	R
+Siderastrea savignyana 82563	M	R
+Siderastrea siderea 1143794	M	R
+Siderastrea siderea 47606	M	R
+Siderastrea sp 10935	M	R
+Siderastrea sp 47604	M	R
+Siderastrea_1	M	R
+Siderastrea_siderea_1	M	R
+Siderastrea_siderea_2	M	R
+Siderastrea_siderea_3	M	R
+Siderastrea_siderea_4	M	R
+Solenastrea bournoni 1139380	M	IR
+Solenastrea bournoni 86692	M	R
+Stephanocoenia michelini 1154436	M	R
+Stephanocoenia michelini 72791-1	M	R
+Stephanocoenia michelini 72791-2	M	R
+Stylocoeniella guentheri 100223	M	R
+Stylocoeniella guentheri 79560	IR	R
+Stylocoeniella guentheri 80253	M	R
+Stylophora pistillata 79250	B1	R
+Stylophora pistillata 90842-1	B1	R
+Stylophora pistillata 90842-2	B1	R
+Symphyllia agaricia 1134475	M	R
+Symphyllia agaricia 90582	M	R
+Symphyllia radians 1114429	M	R
+Symphyllia radians 90797	M	R
+Symphyllia recta 91132-1	M	R
+Symphyllia recta 91132-2	M	R
+Trachyphyllia geoffroyi 1155044	S	R
+Trachyphyllia geoffroyi 90314	S	R
+Turbinaria peltata 83733	CH	R
+Turbinaria peltata noid 2	CH	R
+Turbinaria peltata noid	CH	R
